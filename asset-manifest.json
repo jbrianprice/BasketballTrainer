@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jbrianprice/BasketballTrainer/static/css/main.e32e6085.css",
-    "main.js": "/jbrianprice/BasketballTrainer/static/js/main.7e3ffde9.js",
-    "static/js/787.b701888c.chunk.js": "/jbrianprice/BasketballTrainer/static/js/787.b701888c.chunk.js",
-    "static/media/logo_shock.png": "/jbrianprice/BasketballTrainer/static/media/logo_shock.ea1219cf5c31779ae80f.png",
-    "index.html": "/jbrianprice/BasketballTrainer/index.html",
-    "main.e32e6085.css.map": "/jbrianprice/BasketballTrainer/static/css/main.e32e6085.css.map",
-    "main.7e3ffde9.js.map": "/jbrianprice/BasketballTrainer/static/js/main.7e3ffde9.js.map",
-    "787.b701888c.chunk.js.map": "/jbrianprice/BasketballTrainer/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/BasketballTrainer/static/css/main.e32e6085.css",
+    "main.js": "/BasketballTrainer/static/js/main.dce78a90.js",
+    "static/js/787.b701888c.chunk.js": "/BasketballTrainer/static/js/787.b701888c.chunk.js",
+    "static/media/logo_shock.png": "/BasketballTrainer/static/media/logo_shock.ea1219cf5c31779ae80f.png",
+    "index.html": "/BasketballTrainer/index.html",
+    "main.e32e6085.css.map": "/BasketballTrainer/static/css/main.e32e6085.css.map",
+    "main.dce78a90.js.map": "/BasketballTrainer/static/js/main.dce78a90.js.map",
+    "787.b701888c.chunk.js.map": "/BasketballTrainer/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e32e6085.css",
-    "static/js/main.7e3ffde9.js"
+    "static/js/main.dce78a90.js"
   ]
 }
