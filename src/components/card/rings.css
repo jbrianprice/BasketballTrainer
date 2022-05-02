@@ -1,0 +1,24 @@
+.square {
+    max-width: 100%;
+    
+  }
+
+  .rings-overlay {
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 4%, rgba(255,255,255,0) 100%);
+    z-index: 10;
+  }
+
+  .square div {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  
+  .square:after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+  }
