@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BasketballTrainer/static/css/main.553da7e1.css",
-    "main.js": "/BasketballTrainer/static/js/main.a3927547.js",
+    "main.css": "/BasketballTrainer/static/css/main.a47f195c.css",
+    "main.js": "/BasketballTrainer/static/js/main.5300ac63.js",
     "static/js/787.b701888c.chunk.js": "/BasketballTrainer/static/js/787.b701888c.chunk.js",
     "static/media/high-dribble.gif": "/BasketballTrainer/static/media/high-dribble.2ae824bb19acc8fd535f.gif",
     "static/media/behind-back.gif": "/BasketballTrainer/static/media/behind-back.a61c3872938f0ad7be57.gif",
@@ -11,13 +11,16 @@
     "static/media/curry-btl.gif": "/BasketballTrainer/static/media/curry-btl.87173542b67ebfe71580.gif",
     "static/media/front-between-back.gif": "/BasketballTrainer/static/media/front-between-back.1f1d7048510737c416ef.gif",
     "static/media/logo_shock.png": "/BasketballTrainer/static/media/logo_shock.ea1219cf5c31779ae80f.png",
+    "static/media/ring-medium.svg": "/BasketballTrainer/static/media/ring-medium.810ccdb170cd3690092d.svg",
     "index.html": "/BasketballTrainer/index.html",
-    "main.553da7e1.css.map": "/BasketballTrainer/static/css/main.553da7e1.css.map",
-    "main.a3927547.js.map": "/BasketballTrainer/static/js/main.a3927547.js.map",
+    "static/media/ring-easy.svg": "/BasketballTrainer/static/media/ring-easy.32c592a2918f05462214.svg",
+    "static/media/ring-hard.svg": "/BasketballTrainer/static/media/ring-hard.145d3c79723c5594a7f4.svg",
+    "main.a47f195c.css.map": "/BasketballTrainer/static/css/main.a47f195c.css.map",
+    "main.5300ac63.js.map": "/BasketballTrainer/static/js/main.5300ac63.js.map",
     "787.b701888c.chunk.js.map": "/BasketballTrainer/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.553da7e1.css",
-    "static/js/main.a3927547.js"
+    "static/css/main.a47f195c.css",
+    "static/js/main.5300ac63.js"
   ]
 }
